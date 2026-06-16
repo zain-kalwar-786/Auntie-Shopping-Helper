@@ -28,5 +28,6 @@ python main.py
 ## Author
 
 Muhammad Zain
-# Screenshots
-#
+## Screenshot
+
+![App Screenshot](screenshot.jpg)
